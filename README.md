@@ -1,5 +1,4 @@
-# Hola mi nombre es  Juan! 👋 
-Full Stack Jr Developer
+# Hola mi nombre es  Juan! 👋 Full Stack Jr Developer
 
 ### Sobre MI 🚀
 ------------
@@ -14,4 +13,4 @@ Como desarrollador Full Stack Jr, convierto ideas en código. Soy capaz de manej
 ### Contacto 📬
 
 ------------
-Conéctate conmigo atraves de <a href="https://www.linkedin.com/in/juan-pablo-lopez-860b74285/">LinkedIn </a> o por correo electrónico a juaannpablo@outlook.com
+Conéctate conmigo atraves de <a href="https://www.linkedin.com/in/juan-pablo-lopez-860b74285/" target="_blank">LinkedIn </a> o por correo electrónico a juaannpablo@outlook.com
